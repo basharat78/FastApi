@@ -2,11 +2,11 @@ users = [
     {
         "id": 1,
         "login": "admin@example.com",
-        "password": "123456"
+        "password": "1sakaf34234234nkn32k4"
     },
     {
         "id": 2,
         "login": "user@example.com",
-        "password": "abcdef"
+        "password": "12dfdsf323f2323dfdfdsf"
     }
 ]
